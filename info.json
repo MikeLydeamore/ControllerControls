@@ -1,0 +1,11 @@
+{
+    "name": "ControllerControls",
+    "version": "0.1.0",
+    "title": "Controller Controls",
+    "author": "insaneau",
+    "contact": "",
+    "homepage": "github.com/MikeLydeamore/ControllerControls",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.15"],
+    "description": "Adds a 'next item' and 'previous item' hotkey for the quickbars"
+}
